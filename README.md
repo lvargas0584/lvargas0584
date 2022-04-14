@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Anna  👋
+
+ <img align="right" alt="GIF" src="https://github.com/lvargas0584/lvargas0584/blob/main/dev.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,4 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
