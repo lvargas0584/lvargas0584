@@ -42,5 +42,5 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://www.linkedin.com/in/leonardo-vargas-3237a843
 [portfolio]: https://arsentieva.github.io/profile/
