@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/lvargas0584/lvargas0584/blob/main/dev.gif?raw=true" width="500" height="320" />
 
-## I'm a Father, Developer and Mentor!!
+## I'm Developer and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on low code technologies.
 - 🌱 I’m currently learning Power Platform
