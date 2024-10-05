@@ -40,4 +40,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/leonardo-vargas-3237a843
-[portfolio]: https://lvargas0584.github.io/profile/
+[portfolio]: https://github.com/lvargas0584
