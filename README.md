@@ -40,4 +40,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/leonardo-vargas-3237a843
-[portfolio]: https://github.com/lvargas0584
+[portfolio]: https://github.com/lvargas0584?tab=repositories
