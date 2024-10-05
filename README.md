@@ -4,8 +4,8 @@
 
 ## I'm Developer and Mentor!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on low code technologies.
-- 🌱 I’m currently learning Power Platform
+- 🔭 I’m currently working on IOT platform.
+- 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on open source 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/His
